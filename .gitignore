@@ -1,0 +1,23 @@
+# Ignorar archivos del sistema de Mac
+.DS_Store
+
+# Ignorar la carpeta del entorno virtual
+venv/
+
+# Ignorar la carpeta node_modules (si usas Node.js)
+node_modules/
+
+# Ignorar archivos de configuración de IDEs
+.idea/
+.vscode/
+
+# Ignorar archivos de configuración local
+.env
+
+# Ignorar archivos temporales
+*.tmp
+*.log
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc

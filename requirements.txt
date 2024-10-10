@@ -1,0 +1,4 @@
+
+tensorflow # Reemplazar con la versión específica utilizada
+pandas    # Reemplazar con la versión específica utilizada
+numpy     # Reemplazar con la versión específica utilizada
